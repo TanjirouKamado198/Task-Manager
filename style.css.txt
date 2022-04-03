@@ -1,0 +1,40 @@
+
+
+#box1{
+  height :65px;
+  width : 100%;
+  background-color:lime;
+}
+
+#h1{
+  padding-top : 10px;
+  padding-left : 10px;
+  font-family : Arial;
+
+  
+}
+h3{
+  font-family : Arial;
+}
+
+#box{
+  height : 25px;
+  border-radius : 20px;
+}
+
+.life{
+  margin-left : 60px;
+  list-style-type: none;
+  font-family : Arial;
+  border : 1px solid black;
+}
+
+.edit{
+  background-color : lime;
+  border-radius : 50px;
+}
+
+.del{
+  background-color : red;
+  border-radius : 50px;
+}

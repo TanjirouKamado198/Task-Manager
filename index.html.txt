@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>task manager</title>
+    <link href="style.css" rel="stylesheet">
+    <script src = "script.js"></script>
+    <link rel="icon" type = "image/x-icon" href="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-to-do-list-text-formatting-prettycons-flat-prettycons.png" >
+  </head>
+  <body>
+    <div id = "box1"><h1 id = "h1">Task Manager</h1></div>
+    <h3>Add Items</h3>
+
+    <form>
+      <input type = "text" id = "box" required>
+      <input type = "submit" id = "submit" value = "submit" onclick= "show()">
+    </form>
+
+    <h3>Items</h3>  
+    <ul id = "item_show"></p>
+  
+  </body>
+</html>
